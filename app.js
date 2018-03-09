@@ -14,6 +14,7 @@ function sum(a, b) { //eslint-disable-line
   // concatenate the string
   var sumString = 'The sum of ' + a + ' and ' + b + ' is ' + sumOfTwoNums + '.';
   // return an array
+  
   return [sumOfTwoNums, sumString];
 }
 
