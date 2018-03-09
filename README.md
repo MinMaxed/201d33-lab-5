@@ -1,4 +1,3 @@
-Worked with Madi and Jason for the majority of these questions. 
 
 # Assignment Overview: Lab 5
 
