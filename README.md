@@ -1,3 +1,5 @@
+Worked with Madi and Jason for the majority of these questions. 
+
 # Assignment Overview: Lab 5
 
 There are two parts to your lab assignment, and each is in a different assignment in Canvas:
